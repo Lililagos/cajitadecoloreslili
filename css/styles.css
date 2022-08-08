@@ -1,0 +1,50 @@
+ /*incorporo reglas fundamentales para hacer wbeb*/
+ * {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+.verde {
+    background-color: rgb(0, 255, 34);
+}
+.morado {
+    background-color: blueviolet;
+}
+.azul {
+    background-color: rgb(43, 92, 226);
+}
+.rosado {
+    background-color: rgb(232, 108, 218);
+}
+.naranja {
+    background-color: orange;
+}
+.gris {
+    background-color: gray;
+}
+.rojo {
+    background-color: red;
+}
+.amarillo {
+   background-color: yellow;
+}
+.altura1 {
+    height: 200px;
+} 
+.altura2 {
+    height: 200px;
+} 
+.altura3 {
+    height: 200px;
+} 
+.altura4 {
+    height: 200px;
+} 
+.altura5 {
+    height: 500px;
+} 
+.altura6 {
+    height: 200px;
+} 
